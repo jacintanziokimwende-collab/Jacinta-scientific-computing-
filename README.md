@@ -15,7 +15,6 @@ This individual repository contains the Scientific Computing assignment document
 ## Folders
 - `documentation/` — completed individual documentation
 - `code/` — Python programs for Tasks 2–20
-- `results/` — space for generated graphs/results
 
 ## Installation
 ```bash
